@@ -29,7 +29,7 @@ Configure the root of your repository with the following files and directories. 
 ### Complete Your App Functionality
 * Complete all remaining lab 31 and 32 feature tasks
 * Add `reporter` middleware to your application's redux store
-* Add custom validation to your redux reducers
+* Add custom validation middleware to your redux reducers
 
 ### Components
 Upon completion of this application, your component hierarchy should be as follows:
